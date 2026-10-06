@@ -132,10 +132,10 @@
 
 <!-- Replace YOUR_GITHUB_USERNAME below with your actual GitHub username. -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true" height="165" alt="GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&layout=compact" height="165" alt="Most used languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devyansh-Dave&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true" height="165" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devyansh-Dave&theme=transparent&hide_border=true&layout=compact" height="165" alt="Most used languages">
   <br>
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" alt="GitHub contribution streak">
+  <img src="https://streak-stats.demolab.com/?user=Devyansh-Dave&theme=transparent&hide_border=true" alt="GitHub contribution streak">
 </div>
 
 <br>
