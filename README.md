@@ -1,16 +1,6 @@
-<table align="center" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <img src="https://files.catbox.moe/an1iot.png" height="300" style="display:block; border-radius:8px; margin:0;" alt="Creative technology artwork">
-    </td>
-    <td>
-      <img src="https://files.catbox.moe/tq9mlt.jpg" height="300" style="display:block; border-radius:8px; margin:0;" alt="Digital art">
-    </td>
-    <td>
-      <img src="https://files.catbox.moe/b04xyt.png" height="300" style="display:block; border-radius:8px; margin:0;" alt="Technology artwork">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./devyansh-cyberpunk-banner.jpg" width="100%" alt="Cyberpunk-style Devyansh Bhateja profile banner">
+</div>
 
 <br>
 
